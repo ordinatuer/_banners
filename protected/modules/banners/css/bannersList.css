@@ -1,0 +1,9 @@
+.view img{
+    max-width: 300px;
+    max-height: 300px;
+}
+.row label{
+    display: block;
+    float: left;
+    width: 180px;
+}
